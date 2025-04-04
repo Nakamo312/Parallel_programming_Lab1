@@ -1,0 +1,11 @@
+Dimension,Multiplication Time (s),Validation Result
+100,0.023000,True
+200,0.188000,True
+300,0.621000,True
+400,1.455000,True
+500,2.892000,True
+600,5.077000,True
+700,8.298000,True
+800,12.423000,True
+900,17.905000,True
+1000,25.145000,True
