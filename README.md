@@ -8,9 +8,7 @@ A comprehensive tool for benchmarking matrix multiplication performance with vis
 - [Requirements](#-requirements)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Examples](#-examples)
-- [License](#-license)
+
 
 ## ✨ Features
 - ⚡ High-performance matrix operations
