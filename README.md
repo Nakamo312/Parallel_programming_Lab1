@@ -1,21 +1,11 @@
-# 🚀 Matrix Multiplication Benchmark Tool
+# 🚀 Matrix Multiplication 
 
-
-A comprehensive tool for benchmarking matrix multiplication performance with visualization capabilities.
 
 ## 📋 Table of Contents
-- [Features](#-features)
 - [Requirements](#-requirements)
 - [Installation](#-installation)
 - [Usage](#-usage)
 
-
-## ✨ Features
-- ⚡ High-performance matrix operations
-- 📊 Automated performance benchmarking
-- 🔍 Result validation
-- 📈 Beautiful visualization
-- ⚙️ Customizable test parameters
 
 ## 📦 Requirements
 - **C++ Compiler** (g++ or MSVC)
