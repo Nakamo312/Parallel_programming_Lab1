@@ -26,7 +26,8 @@ A comprehensive tool for benchmarking matrix multiplication performance with vis
 
 ## Usage
 Run the benchmark with default settings:
-run_benchmark.bat
+  ```bash
+      run_test.bat
 
 # 🔧 Custom Options
 Parameter	Description	Default Value
