@@ -1,4 +1,4 @@
-# 🚀 Matrix Multiplication 
+#  Лабораторная работа 1 
 
 
 ## 📋 Table of Contents
